@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://espuryper.github.io/sitemap.html.gz
+Sitemap: https://espuryper.github.io/app/sitemap.html.gz
+Sitemap: https://espuryper.github.io/assets/sitemap.html.gz
+Sitemap: https://espuryper.github.io/css/sitemap.html.gz
+Sitemap: https://espuryper.github.io/includes/sitemap.html.gz
+Sitemap: https://espuryper.github.io/item/sitemap.html.gz
+Sitemap: https://espuryper.github.io/src/sitemap.html.gz
